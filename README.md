@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu GitHub!
 
-Olá, é bom ter você por aqui!  ❤
+Olá, é bom ter você por aqui!
 
 Trabalho com tecnologia há mais de 12 anos. Na área de Suporte a Sistemas e Redes de Computadores.
 
@@ -10,7 +10,7 @@ Me interesso em desenvolvimento de software e atualmente busco migrar para esta 
 
 Bora montar um bom repositório no GitHub.
 
-Atualizado em: 11/04/2024
+11/04/2024
 
 ###  Tecnologias e Ferramentas utilizadas
 <div>
