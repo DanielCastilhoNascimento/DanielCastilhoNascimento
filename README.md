@@ -10,7 +10,7 @@ Me interesso em desenvolvimento de software e atualmente busco migrar para esta 
 
 Bora montar um bom repositório no GitHub.
 
-11/04/2024
+
 
 ###  Tecnologias e Ferramentas utilizadas
 <div>
